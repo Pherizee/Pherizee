@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesuferanmi. @Pherizee (this is my nickname)
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning React.js and coding some projects.
+- 👀 I’m a Frontend Developer. I use React.js as my main frontend stack.
+- 🌱 I’m currently learning to become a full software engineer in the ALX Software Engineering program.
 - 📫 How to reach me ...
     📧asiyanbijesuferanmi@gmail.com
 
