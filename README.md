@@ -9,4 +9,5 @@ Pherizee/Pherizee is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Jesuferanmi's GitHub stats](https://github-readme-stats-ten-nu-86.vercel.app/api?username=pherizee)](https://github.com/Pherizee/github-readme-stats)
+<!-- [![Jesuferanmi's GitHub stats](https://github-readme-stats-ten-nu-86.vercel.app/api?username=Pherizee)](https://github.com/Pherizee/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
